@@ -2,7 +2,7 @@
 
 Aplicativo desenvolvido para android, ios e Web<br>
 Para melhor minhas skils com react-native.<br>
-O Aplicativo de marcação de pontos
+O Aplicativo de marcação de pontos<br>
 O objetivo do aplicativo é permitir que dois jogadores possam marcar simultaneamente sua pontuação em uma partida de Magic.
 
 ## 💻 Tecnologias
