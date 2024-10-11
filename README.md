@@ -1,4 +1,4 @@
-## Aplicativo Ayrton Senna.
+## Aplicativo Jogo Magic.
 
 Aplicativo desenvolvido para android, ios e Web<br>
 Para melhor minhas skils com react-native.
